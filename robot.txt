@@ -1,0 +1,8 @@
+User-agent: Googlebot-Image
+Allow: /images-folder/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://xbox-series-x.github.io/sitemap.xml
+Sitemap: https://www.xbox-series-x.github.io/sitemap.xml
